@@ -97,7 +97,7 @@ export function Footer() {
               {t.footer.followUs}
             </h4>
             <a
-              href="https://instagram.com/luminarte"
+              href="https://www.instagram.com/luminartesnc?utm_source=qr&igsh=NjVrcGdtMmdhd3cz"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors group"
